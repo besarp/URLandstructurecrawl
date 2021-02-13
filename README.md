@@ -16,3 +16,7 @@ Per te instaluar librarine BeautifulSoup
 ```
 pip install BeautifulSoup4
 ```
+---
+Punuan:
+Besar Pallush
+Drinos Kukaj
