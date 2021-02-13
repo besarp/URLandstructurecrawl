@@ -18,5 +18,5 @@ pip install BeautifulSoup4
 ```
 ---
 Punuan:
-Besar Pallush
+Besar Pallush,
 Drinos Kukaj
